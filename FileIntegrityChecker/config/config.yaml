@@ -1,0 +1,15 @@
+monitoring:
+  directory: "monitored"  # Directory to monitor relative to project root
+  chunk_size: 8192
+  recursive: true
+
+crypto:
+  key_size: 2048
+  hash_algorithm: "sha256"
+
+database:
+  path: "data/file_hashes.db"
+
+logging:
+  level: "INFO"
+  file: "logs/fim.log"
