@@ -1,32 +1,14 @@
-2025-01-07 14:35:19,897 - ERROR - Fatal error: Error creating directory : [WinError 3] The system cannot find the path specified: ''
-2025-01-07 14:38:48,527 - INFO - Initializing file monitoring...
-2025-01-07 14:38:48,527 - INFO - Creating baseline hashes for directory: C:\Users\Admin\FileIntegrityChecker\monitored
-2025-01-07 14:38:48,549 - INFO - Baseline creation completed. Processed 3 files with 0 errors.
-2025-01-07 14:38:48,549 - INFO - Starting file monitoring...
-2025-01-07 14:38:48,551 - INFO - Started monitoring directory: C:\Users\Admin\FileIntegrityChecker\monitored
-2025-01-07 14:49:16,037 - INFO - New file created and hashed: C:\Users\Admin\FileIntegrityChecker\monitored\test.txt
-2025-01-07 14:49:42,557 - WARNING - File modified: C:\Users\Admin\FileIntegrityChecker\monitored\test.txt
-Old hash: e314c6251c4d944143760149b1dfb69b7fa0fdd514f5be1a7653a0e568892c7b
-New hash: cffeb1e549c24a25e3a06e4137c1537a3b7931e0f2b6df36008fd9179251a510
-2025-01-07 14:51:12,860 - INFO - New file created and hashed: C:\Users\Admin\FileIntegrityChecker\monitored\secure.txt
-2025-01-07 14:51:12,863 - WARNING - File modified: C:\Users\Admin\FileIntegrityChecker\monitored\secure.txt
-Old hash: 27390d4bb8a4f6678a7b4e1c52e528b102e8d86231978a80b970a0cd4b5ca03a
-New hash: e5ea068ea706fb2cbf9c4a8826946ec8716d923d68bd3d2993a7c37f3f4d3f2b
-2025-01-07 14:51:27,684 - WARNING - File modified: C:\Users\Admin\FileIntegrityChecker\monitored\secure.txt
-Old hash: e5ea068ea706fb2cbf9c4a8826946ec8716d923d68bd3d2993a7c37f3f4d3f2b
-New hash: 44fc4bfbdc1b9d1ad9508937acde89c928e7b57ee149d705dfe4c58a6d312f26
-2025-01-07 14:53:16,291 - INFO - Verifying file integrity...
-2025-01-07 14:53:16,295 - WARNING - Invalid signature for C:\Users\Admin\FileIntegrityChecker\monitored\document.txt
-2025-01-07 14:53:16,297 - WARNING - Invalid signature for C:\Users\Admin\FileIntegrityChecker\monitored\secure.txt
-2025-01-07 14:53:16,298 - WARNING - Invalid signature for C:\Users\Admin\FileIntegrityChecker\monitored\test.txt
-2025-01-07 14:53:16,299 - WARNING - Invalid signature for C:\Users\Admin\FileIntegrityChecker\monitored\test1.txt
-2025-01-07 14:53:16,300 - WARNING - Invalid signature for C:\Users\Admin\FileIntegrityChecker\monitored\test2.txt
-2025-01-07 14:53:16,300 - INFO - Verification complete: 0/5 files passed
-2025-01-07 14:53:16,300 - WARNING - Verification failed: C:\Users\Admin\FileIntegrityChecker\monitored\document.txt
-2025-01-07 14:53:16,300 - WARNING - Verification failed: C:\Users\Admin\FileIntegrityChecker\monitored\secure.txt
-2025-01-07 14:53:16,300 - WARNING - Verification failed: C:\Users\Admin\FileIntegrityChecker\monitored\test.txt
-2025-01-07 14:53:16,300 - WARNING - Verification failed: C:\Users\Admin\FileIntegrityChecker\monitored\test1.txt
-2025-01-07 14:53:16,300 - WARNING - Verification failed: C:\Users\Admin\FileIntegrityChecker\monitored\test2.txt
-2025-01-07 14:53:50,179 - INFO - Creating new baseline hashes...
-2025-01-07 14:53:50,179 - INFO - Creating baseline hashes for directory: C:\Users\Admin\FileIntegrityChecker\monitored
-2025-01-07 14:53:50,214 - INFO - Baseline creation completed. Processed 5 files with 0 errors.
+2025-01-08 20:56:41,555 - INFO - Initializing file monitoring...
+2025-01-08 20:56:41,555 - INFO - Creating baseline hashes for directory: C:\Users\Admin\FileIntegrityChecker\monitored
+2025-01-08 20:56:41,556 - INFO - Baseline creation completed. Processed 0 files with 0 errors.
+2025-01-08 20:56:41,556 - INFO - Starting file monitoring...
+2025-01-08 20:56:41,558 - INFO - Started monitoring directory: C:\Users\Admin\FileIntegrityChecker\monitored
+2025-01-08 20:56:44,617 - INFO - Monitoring stopped
+2025-01-08 21:50:23,424 - INFO - Creating new baseline hashes...
+2025-01-08 21:50:23,425 - INFO - Creating baseline hashes for directory: C:\Users\Admin\FileIntegrityChecker\monitored
+2025-01-08 21:50:23,442 - INFO - Baseline creation completed. Processed 1 files with 0 errors.
+2025-01-08 21:51:59,548 - INFO - Initializing file monitoring...
+2025-01-08 21:51:59,549 - INFO - Creating baseline hashes for directory: C:\Users\Admin\FileIntegrityChecker\monitored
+2025-01-08 21:51:59,560 - INFO - Baseline creation completed. Processed 1 files with 0 errors.
+2025-01-08 21:51:59,560 - INFO - Starting file monitoring...
+2025-01-08 21:51:59,563 - INFO - Started monitoring directory: C:\Users\Admin\FileIntegrityChecker\monitored
